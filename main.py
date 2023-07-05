@@ -1,6 +1,4 @@
 import tensorflow as tf
-import matplotlib.pyplot as plt
-import keras_ocr
 from tensorflow.keras.layers import TextVectorization
 import pickle
 import streamlit as st
