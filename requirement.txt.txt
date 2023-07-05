@@ -1,0 +1,3 @@
+tensorflow==2.12.0
+pickle
+numpy==1.23.2
